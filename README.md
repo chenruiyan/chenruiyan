@@ -65,7 +65,7 @@ Chen, R. Y., Nishimura, T., Minematsu, N., Saito, D.. Acoustic Simulation of Bod
 - 2021.7 日本各地の平均気温の可視化アプリ
 - 2022.1 簡易ToDoアプリ（Android）
 
-詳細はこちらへ。
+詳細は[こちら](/dev/README.md)へ。
 
 
 
