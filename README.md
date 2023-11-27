@@ -28,14 +28,6 @@
 
 陳瑞彦, ⻄村多寿子, 峯松信明, 齋藤大輔. 防音用イヤーマフと骨導マイクを用いた体内音と自己聴取音の模擬. 日本音響学会秋季講演論文集, 2021.
 
-
-
-### 研究会
-
-- 2021.6 音学シンポジウム [学生ポスター賞 受賞](https://www.ieice.org/iss/sp/jpn/special/sp-poster-prize.html)
-
-陳瑞彦, ⻄村多寿子, 峯松信明, 齋藤大輔. 防音用イヤーマフと骨導マイクを用いた体内音の模擬と自己聴取音の合成. 研究報告音声言語情報処理(SLP), 2021.
-
 - 2022.9 2022年電子情報通信学会ソサイエティ大会
 
 陳瑞彦, 張哲元, 白畑卓磨, 山下真司. ウィーナーフィルタを用いた CAMPS LiDAR の歪み補正. In IEICE Conferences Archives. The Institute of Electronics, Information and Communication Engineers, 2022.
@@ -43,6 +35,12 @@
 - 2023.3 2023年第70回応用物理学会春季学術講演会
 
 Ruiyan Chen, Zheyuan Zhang, Takuma Shirahata, Sze Yun Set, Shinji Yamashita, “Performance Improvement of Chirped Amplitude Modulation Phase Shift Method Based on Total Variation Regularization and Application to its 3D Scanner, 応用物理学会春季学術講演会, 上智大学, 東京, 16p-A303-8, 2023.
+
+### 研究会
+
+- 2021.6 音学シンポジウム [学生ポスター賞 受賞](https://www.ieice.org/iss/sp/jpn/special/sp-poster-prize.html)
+
+陳瑞彦, ⻄村多寿子, 峯松信明, 齋藤大輔. 防音用イヤーマフと骨導マイクを用いた体内音の模擬と自己聴取音の合成. 研究報告音声言語情報処理(SLP), 2021.
 
 ### 国際会議
 
